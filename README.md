@@ -1,1 +1,1 @@
-# telenovela-transcripts
+This Python code can be used to create .txt files out of .htm pages and extract out the text contained in the `<p>` tags, so it is best suited for transcripts of episodes of Univision telenovelas. See the blog post and instructional video at http://ielanguages.com/blog/linguistic-analysis-of-telenovela-spanish/
